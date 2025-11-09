@@ -71,19 +71,15 @@ Currently working on:
 
 ## 📫 How to Reach Me  
 
-📧 **Email:** [pabbisettyssivakumar@gmail.com](mailto:pabbisettyssivakumar@gmail.com)
+📧 **Email:** [pabbisettyssivakumar@gmail.com](mailto:pabbisettyssivakumar@gmail.com)  
+🐦 **Twitter:** [@SivaKumar_AI](https://x.com/itsPSK95)
 
 <p align="center">
   <a href="mailto:pabbisettyssivakumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/PabbisettySivaKumar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/SivaKumar_AI"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-## ✨ Quote  
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
----
-
-⭐️ *If you like my work, consider giving a star to my repositories!* 😊
+*If you like my work, consider giving a star to my repositories!* 
