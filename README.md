@@ -16,7 +16,6 @@
 I’m passionate about building **machine learning systems** and **user-friendly designs** on iOS and web platforms.  
 Currently working on:  
 - ⚙️ End-to-end **Retrieval-Augmented Generation (RAG)** systems  
-- 🌿 ML-powered **iOS apps**, especially in the plant health domain  
 
 ---
 
@@ -52,8 +51,6 @@ Currently working on:
 | 🌟 Project | 🧾 Description |
 |-------------|----------------|
 | **[RAG & Intelligent Analysis System](https://github.com/PabbisettySivaKumar/IntelligentAnalysisSystem)** | Full stack RAG application with Streamlit frontend, embedding store, retrieval layer, and generation logic — built using Python and open source libraries. |
-| **[Automation Testing Framework](https://github.com/PabbisettySivaKumar/AutomationFramework)** | Custom automation framework using Python and Selenium for web applications, improving test coverage and reliability. |
-
 ---
 
 ## 📊 GitHub Stats  
