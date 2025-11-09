@@ -23,8 +23,6 @@ Currently working on:
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ### 🧠 Machine Learning & AI  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -41,7 +39,6 @@ Currently working on:
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ### 📱 iOS / Shortcuts Automation  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Shortcuts](https://img.shields.io/badge/iOS%20Shortcuts-5856D6?style=flat&logo=apple&logoColor=white)
 
 ---
