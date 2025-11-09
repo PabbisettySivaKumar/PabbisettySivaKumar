@@ -51,6 +51,8 @@ Currently working on:
 | 🌟 Project | 🧾 Description |
 |-------------|----------------|
 | **[RAG & Intelligent Analysis System](https://github.com/PabbisettySivaKumar/IntelligentAnalysisSystem)** | Full stack RAG application with Streamlit frontend, embedding store, retrieval layer, and generation logic — built using Python and open source libraries. |
+| **[Intelligent Analysis System](https://github.com/PabbisettySivaKumar/IntelligentAnalysisSystem)** | An AI-powered data analysis assistant that transforms CSV files into actionable insights, interactive visualizations, and comprehensive reports through an intuitive Streamlit interface. |
+
 ---
 
 ## 📊 GitHub Stats  
