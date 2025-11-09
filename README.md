@@ -69,7 +69,7 @@ Currently working on:
 ## 📫 How to Reach Me  
 
 📧 **Email:** [pabbisettyssivakumar@gmail.com](mailto:pabbisettyssivakumar@gmail.com)  
-🐦 **Twitter:** [@SivaKumar_AI](https://x.com/itsPSK95)
+🐦 **Twitter:** [@itsPSK95](https://x.com/itsPSK95)
 
 <p align="center">
   <a href="mailto:pabbisettyssivakumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
