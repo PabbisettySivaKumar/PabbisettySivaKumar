@@ -23,6 +23,4 @@ I’m currently working on:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabbisettySivaKumar&show_icons=true&theme=tokyonight)  
 
 ## How to Reach Me  
-- Email: pabbisettyssivakumar@gmail.com    
-- [X](https://x.com/itsPSK95)
-
+- Email: pabbisettyssivakumar@gmail.com
