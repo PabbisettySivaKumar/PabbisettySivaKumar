@@ -52,20 +52,6 @@ Currently working on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabbisettySivaKumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=PabbisettySivaKumar&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabbisettySivaKumar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p> 
-
----
-
 ## 📫 How to Reach Me  
 
 📧 **Email:** [pabbisettyssivakumar@gmail.com](mailto:pabbisettyssivakumar@gmail.com)  
